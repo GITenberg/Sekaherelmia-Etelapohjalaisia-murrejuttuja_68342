@@ -1,5 +1,8 @@
 _repo: Sekaherelmia-Etelapohjalaisia-murrejuttuja_68342
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ikola, Jaakko
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54548
     wikipedia: https://fi.wikipedia.org/wiki/Jaakko_Ikola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68342#Sekaherelmia-Etelapohjalaisia-murrejuttuja
 gutenberg_issued: '2022-06-18'
 identifiers:
   gutenberg: '68342'
